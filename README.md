@@ -131,7 +131,7 @@
     <td align="center"><a href="https://github.com/JeonTaeHyeon" target='_blank'>전태현</a></td>
     <td align="center"><a href="https://github.com/jiwon11" target='_blank'>정지원</a></td>
     <td align="center"><a href="https://github.com/ChoMyeongHwan" target='_blank'>조명환</a></td>
-    <td align="center"><a href="https://github.com/CodeJugller" target='_blank'>진용민</a></td>
+    <td align="center"><a href="https://github.com/CodeJuggler19" target='_blank'>진용민</a></td>
   </tr>
   <tr>
     <td align="center"><b>서버개발</b></td>
